@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468429313060",
+    "project_id": "chetme-ad747",
+    "storage_bucket": "chetme-ad747.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468429313060:android:ed39d57b75478fc568f4b1",
+        "android_client_info": {
+          "package_name": "com.example.chatmee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhnXCy3F-1VNllAa_bhJZhzHpqHUDwvb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
